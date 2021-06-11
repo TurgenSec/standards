@@ -7,7 +7,9 @@ TODO: Topics to add
 
 - [ ] Security Best Practices
 - [ ] Github Access
+- [ ] Git Workflow
 - [ ] Coding Standards
+- [ ] Code Reviews
 - [ ] Tests
 - [ ] Frameworks, Languages
 - [ ] CI/CD
