@@ -5,11 +5,11 @@ Some of these might be a chore to do on existing code, but will significantly in
 
 TODO: Topics to add
 
-- [ ] Security Best Practices
-- [ ] Github Access
-- [ ] Git Workflow
+- [x] [Security Best Practices](./Security.md)
+- [x] [Github Access](./GithubAccess.md)
+- [x] [Git Workflow](./GitFlow.md)
 - [ ] Coding Standards
 - [ ] Code Reviews
 - [ ] Tests
-- [ ] Frameworks, Languages
-- [ ] CI/CD
+- [x] [Frameworks, Languages](./Frameworks.md)
+- [x] [CI/CD](./CICD.md)
