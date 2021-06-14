@@ -15,3 +15,8 @@ The current version is to enhance developer velocity. Once we have proper custom
 - All team members should go trough Open PRs, review the code and give suggestions if any. You should make it a habit to review and comment on your own PR. After all, you know your code best and will catch any issues easier.
 - You should NEVER merge your own PR. It will be merged after all comments are resolved.
 - Always resolve all comments in a PR.
+
+## Commit Messages
+
+- Follow https://www.conventionalcommits.org/en/v1.0.0/ when possible
+- Avoid non descriptive messages like 'Update', 'Test', etc.
