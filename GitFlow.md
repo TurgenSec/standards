@@ -14,7 +14,9 @@ The current version is to enhance developer velocity. Once we have proper custom
 - Keep your PRs short. It's easier to review small chunks than a big fat PR with a thousand lines.
 - All team members should go trough Open PRs, review the code and give suggestions if any. You should make it a habit to review and comment on your own PR. After all, you know your code best and will catch any issues easier.
 - You should NEVER merge your own PR. It will be merged after all comments are resolved.
-- Always resolve all comments in a PR.
+- Two ways to resolve a comment.
+  - Small code fixes/suggestion can be merged directly
+  - Do not resolve a comment without any explanation if you are not implementing the comment. Leave an explanation on why the comment is not valid and wait for the commenter to resolve it or reply. 
 
 ## Commit Messages
 
