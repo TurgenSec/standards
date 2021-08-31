@@ -1,6 +1,7 @@
 # Coding Standards
 
 Overview: https://www.browserstack.com/guide/coding-standards-best-practices
+
 Typescript StyleGuide: https://basarat.gitbook.io/typescript/styleguide
 
 ## Key Points
