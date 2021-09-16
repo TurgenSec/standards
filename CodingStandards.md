@@ -16,3 +16,4 @@ Typescript StyleGuide: https://basarat.gitbook.io/typescript/styleguide
 ## Useful Links
 
 - http://www.blackwasp.co.uk/gofpatterns.aspx
+- https://github.com/zedr/dieter-rams-10-applied-to-software
